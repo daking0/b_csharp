@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_0_Variable\bin\Debug\_0_Variable.exe.config
+D:\Lecture\_2_CSharp\_0_Variable\bin\Debug\_0_Variable.exe
+D:\Lecture\_2_CSharp\_0_Variable\bin\Debug\_0_Variable.pdb
+D:\Lecture\_2_CSharp\_0_Variable\obj\Debug\_0_Variable.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_0_Variable\obj\Debug\_0_Variable.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_0_Variable\obj\Debug\_0_Variable.exe
+D:\Lecture\_2_CSharp\_0_Variable\obj\Debug\_0_Variable.pdb
