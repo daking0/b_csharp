@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_11_if\bin\Debug\_11_if.exe.config
+D:\Lecture\_2_CSharp\_11_if\bin\Debug\_11_if.exe
+D:\Lecture\_2_CSharp\_11_if\bin\Debug\_11_if.pdb
+D:\Lecture\_2_CSharp\_11_if\obj\Debug\_11_if.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_11_if\obj\Debug\_11_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_11_if\obj\Debug\_11_if.exe
+D:\Lecture\_2_CSharp\_11_if\obj\Debug\_11_if.pdb
