@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_6_if\bin\Debug\_6_if.exe.config
+D:\Lecture\_2_CSharp\_6_if\bin\Debug\_6_if.exe
+D:\Lecture\_2_CSharp\_6_if\bin\Debug\_6_if.pdb
+D:\Lecture\_2_CSharp\_6_if\obj\Debug\_6_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_6_if\obj\Debug\_6_if.exe
+D:\Lecture\_2_CSharp\_6_if\obj\Debug\_6_if.pdb

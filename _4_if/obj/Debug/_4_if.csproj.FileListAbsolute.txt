@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_4_if\obj\Debug\_4_if.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_4_if\obj\Debug\_4_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_4_if\bin\Debug\_4_if.exe.config
+D:\Lecture\_2_CSharp\_4_if\bin\Debug\_4_if.exe
+D:\Lecture\_2_CSharp\_4_if\bin\Debug\_4_if.pdb
+D:\Lecture\_2_CSharp\_4_if\obj\Debug\_4_if.exe
+D:\Lecture\_2_CSharp\_4_if\obj\Debug\_4_if.pdb
