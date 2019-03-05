@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_15_switch\bin\Debug\_15_switch.exe.config
+D:\Lecture\_2_CSharp\_15_switch\bin\Debug\_15_switch.exe
+D:\Lecture\_2_CSharp\_15_switch\bin\Debug\_15_switch.pdb
+D:\Lecture\_2_CSharp\_15_switch\obj\Debug\_15_switch.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_15_switch\obj\Debug\_15_switch.exe
+D:\Lecture\_2_CSharp\_15_switch\obj\Debug\_15_switch.pdb
