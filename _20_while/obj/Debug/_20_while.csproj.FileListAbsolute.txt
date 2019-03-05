@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_20_while\bin\Debug\_20_while.exe.config
+D:\Lecture\_2_CSharp\_20_while\bin\Debug\_20_while.exe
+D:\Lecture\_2_CSharp\_20_while\bin\Debug\_20_while.pdb
+D:\Lecture\_2_CSharp\_20_while\obj\Debug\_20_while.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_20_while\obj\Debug\_20_while.exe
+D:\Lecture\_2_CSharp\_20_while\obj\Debug\_20_while.pdb
+D:\Lecture\_2_CSharp\_20_while\obj\Debug\_20_while.csprojAssemblyReference.cache
