@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_25_while\bin\Debug\_25_while.exe.config
+D:\Lecture\_2_CSharp\_25_while\bin\Debug\_25_while.exe
+D:\Lecture\_2_CSharp\_25_while\bin\Debug\_25_while.pdb
+D:\Lecture\_2_CSharp\_25_while\obj\Debug\_25_while.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_25_while\obj\Debug\_25_while.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_25_while\obj\Debug\_25_while.exe
+D:\Lecture\_2_CSharp\_25_while\obj\Debug\_25_while.pdb
