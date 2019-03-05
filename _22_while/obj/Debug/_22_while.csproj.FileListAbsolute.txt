@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_22_while\bin\Debug\_22_while.exe.config
+D:\Lecture\_2_CSharp\_22_while\bin\Debug\_22_while.exe
+D:\Lecture\_2_CSharp\_22_while\bin\Debug\_22_while.pdb
+D:\Lecture\_2_CSharp\_22_while\obj\Debug\_22_while.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_22_while\obj\Debug\_22_while.exe
+D:\Lecture\_2_CSharp\_22_while\obj\Debug\_22_while.pdb
+D:\Lecture\_2_CSharp\_22_while\obj\Debug\_22_while.csprojAssemblyReference.cache
