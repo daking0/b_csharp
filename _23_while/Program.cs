@@ -21,6 +21,15 @@ namespace _23_while
                 num++;
             }
 
+            /* 1~10까지 중 짝수만 출력
+             * int num=1;
+             * while(num <= 10)
+             * {
+             *      if(num %2 ==0)
+             *            Console.WriteLine(num);
+             *    num++;
+             *   }
+             */
         }
     }
 }
