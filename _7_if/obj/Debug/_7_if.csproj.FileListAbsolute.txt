@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_7_if\bin\Debug\_7_if.exe.config
+D:\Lecture\_2_CSharp\_7_if\bin\Debug\_7_if.exe
+D:\Lecture\_2_CSharp\_7_if\bin\Debug\_7_if.pdb
+D:\Lecture\_2_CSharp\_7_if\obj\Debug\_7_if.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_7_if\obj\Debug\_7_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_7_if\obj\Debug\_7_if.exe
+D:\Lecture\_2_CSharp\_7_if\obj\Debug\_7_if.pdb

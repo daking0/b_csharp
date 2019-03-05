@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_8_if\bin\Debug\_8_if.exe.config
+D:\Lecture\_2_CSharp\_8_if\bin\Debug\_8_if.exe
+D:\Lecture\_2_CSharp\_8_if\bin\Debug\_8_if.pdb
+D:\Lecture\_2_CSharp\_8_if\obj\Debug\_8_if.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_8_if\obj\Debug\_8_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_8_if\obj\Debug\_8_if.exe
+D:\Lecture\_2_CSharp\_8_if\obj\Debug\_8_if.pdb
