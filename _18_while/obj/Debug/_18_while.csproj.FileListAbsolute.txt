@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_18_while\bin\Debug\_18_while.exe.config
+D:\Lecture\_2_CSharp\_18_while\bin\Debug\_18_while.exe
+D:\Lecture\_2_CSharp\_18_while\bin\Debug\_18_while.pdb
+D:\Lecture\_2_CSharp\_18_while\obj\Debug\_18_while.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_18_while\obj\Debug\_18_while.exe
+D:\Lecture\_2_CSharp\_18_while\obj\Debug\_18_while.pdb
