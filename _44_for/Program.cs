@@ -22,7 +22,7 @@ namespace _44_for
             num0 = Console.ReadLine();
             num2 = Int32.Parse(num0);
 
-            for (int i = 0; i <= num1 * num2 i++)
+            for (int i = 0; i <= num1 * num2; i++)
             {
                 if (num1 % i == 0 && num2 % i == 0)
                 {
