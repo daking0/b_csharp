@@ -11,6 +11,7 @@ namespace _44_for
         static void Main(string[] args)
         {
             int num1 = 0, num2 = 0;
+            int gcd = 0, lcm = 0; //gcd는 최대공약수 lcm은 최소공배수
             string num0 = "";
 
             Console.WriteLine("숫자를 입력하세요.");
@@ -21,29 +22,16 @@ namespace _44_for
             num0 = Console.ReadLine();
             num2 = Int32.Parse(num0);
 
-            if (num1 >= num2)
+            for (int i = 0; i <= num1 * num2 i++)
             {
-                if (num1 % num2 == 0)
+                if (num1 % i == 0 && num2 % i == 0)
                 {
-                    Console.WriteLine("최소공배수는 " + num1);
-                }
-                else
-                {
-                    Console.WriteLine("최소공배수는 " + (num1 * num2));
-                }
-            }
-            else
-            {
-                if (num2 % num1 == 0)
-                {
-                    Console.WriteLine("최소공배수는 " + num2);
-                }
-                else
-                {
-                    Console.WriteLine("최소공배수는 " + (num1 * num2));
+                    gcd = i;
                 }
             }
 
+            Console.WriteLine("최대공약수: " + gcd);
+            Console.WriteLine("최소공배수: " + lcm);
 
         }
     }
