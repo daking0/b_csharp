@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_37_for\bin\Debug\_37_for.exe.config
+D:\Lecture\_2_CSharp\_37_for\bin\Debug\_37_for.exe
+D:\Lecture\_2_CSharp\_37_for\bin\Debug\_37_for.pdb
+D:\Lecture\_2_CSharp\_37_for\obj\Debug\_37_for.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_37_for\obj\Debug\_37_for.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_37_for\obj\Debug\_37_for.exe
+D:\Lecture\_2_CSharp\_37_for\obj\Debug\_37_for.pdb
