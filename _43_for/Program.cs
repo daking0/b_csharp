@@ -24,6 +24,13 @@ namespace _43_for
                     break;
             }
 
+            for (int i = 0; result<1000; i++)
+            {
+                result += i;
+                if (result >= 1000)
+                    break;
+            }
+
             //while (true)
             //{
             //    num1++;
