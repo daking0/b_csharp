@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_48_\obj\Debug\_48_.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_48_\bin\Debug\_48_.exe.config
+D:\Lecture\_2_CSharp\_48_\bin\Debug\_48_.exe
+D:\Lecture\_2_CSharp\_48_\bin\Debug\_48_.pdb
+D:\Lecture\_2_CSharp\_48_\obj\Debug\_48_.exe
+D:\Lecture\_2_CSharp\_48_\obj\Debug\_48_.pdb

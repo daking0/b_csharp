@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_47_\bin\Debug\_47_.exe.config
+D:\Lecture\_2_CSharp\_47_\bin\Debug\_47_.exe
+D:\Lecture\_2_CSharp\_47_\bin\Debug\_47_.pdb
+D:\Lecture\_2_CSharp\_47_\obj\Debug\_47_.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_47_\obj\Debug\_47_.exe
+D:\Lecture\_2_CSharp\_47_\obj\Debug\_47_.pdb
+D:\Lecture\_2_CSharp\_47_\obj\Debug\_47_.csprojAssemblyReference.cache
