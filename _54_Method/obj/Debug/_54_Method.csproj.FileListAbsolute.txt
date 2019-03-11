@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_54_Method\bin\Debug\_54_Method.exe.config
+D:\Lecture\_2_CSharp\_54_Method\bin\Debug\_54_Method.exe
+D:\Lecture\_2_CSharp\_54_Method\bin\Debug\_54_Method.pdb
+D:\Lecture\_2_CSharp\_54_Method\obj\Debug\_54_Method.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_54_Method\obj\Debug\_54_Method.exe
+D:\Lecture\_2_CSharp\_54_Method\obj\Debug\_54_Method.pdb
