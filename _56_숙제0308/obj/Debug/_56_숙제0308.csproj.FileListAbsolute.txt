@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_56_숙제0308\bin\Debug\_56_숙제0308.exe.config
+D:\Lecture\_2_CSharp\_56_숙제0308\bin\Debug\_56_숙제0308.exe
+D:\Lecture\_2_CSharp\_56_숙제0308\bin\Debug\_56_숙제0308.pdb
+D:\Lecture\_2_CSharp\_56_숙제0308\obj\Debug\_56_숙제0308.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_56_숙제0308\obj\Debug\_56_숙제0308.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_56_숙제0308\obj\Debug\_56_숙제0308.exe
+D:\Lecture\_2_CSharp\_56_숙제0308\obj\Debug\_56_숙제0308.pdb
