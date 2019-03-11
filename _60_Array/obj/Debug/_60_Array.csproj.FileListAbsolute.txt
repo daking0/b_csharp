@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_60_Array\bin\Debug\_60_Array.exe.config
+D:\Lecture\_2_CSharp\_60_Array\bin\Debug\_60_Array.exe
+D:\Lecture\_2_CSharp\_60_Array\bin\Debug\_60_Array.pdb
+D:\Lecture\_2_CSharp\_60_Array\obj\Debug\_60_Array.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_60_Array\obj\Debug\_60_Array.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_60_Array\obj\Debug\_60_Array.exe
+D:\Lecture\_2_CSharp\_60_Array\obj\Debug\_60_Array.pdb

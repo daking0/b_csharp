@@ -1,0 +1,6 @@
+D:\Lecture\_2_CSharp\_61_Array\bin\Debug\_61_Array.exe.config
+D:\Lecture\_2_CSharp\_61_Array\bin\Debug\_61_Array.exe
+D:\Lecture\_2_CSharp\_61_Array\bin\Debug\_61_Array.pdb
+D:\Lecture\_2_CSharp\_61_Array\obj\Debug\_61_Array.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_61_Array\obj\Debug\_61_Array.exe
+D:\Lecture\_2_CSharp\_61_Array\obj\Debug\_61_Array.pdb

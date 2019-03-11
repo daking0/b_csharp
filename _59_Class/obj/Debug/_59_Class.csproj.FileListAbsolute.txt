@@ -1,0 +1,7 @@
+D:\Lecture\_2_CSharp\_59_Class\bin\Debug\_59_Class.exe.config
+D:\Lecture\_2_CSharp\_59_Class\bin\Debug\_59_Class.exe
+D:\Lecture\_2_CSharp\_59_Class\bin\Debug\_59_Class.pdb
+D:\Lecture\_2_CSharp\_59_Class\obj\Debug\_59_Class.csprojAssemblyReference.cache
+D:\Lecture\_2_CSharp\_59_Class\obj\Debug\_59_Class.csproj.CoreCompileInputs.cache
+D:\Lecture\_2_CSharp\_59_Class\obj\Debug\_59_Class.exe
+D:\Lecture\_2_CSharp\_59_Class\obj\Debug\_59_Class.pdb
